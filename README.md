@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Maharashtra - Explore the Beauty of Maharashtra
 
 A modern web application for discovering and booking travel experiences in Maharashtra, India. This application showcases various destinations, tour packages, and provides a platform for travelers to explore the rich culture and natural beauty of Maharashtra.
@@ -128,3 +129,7 @@ For any queries or suggestions, please contact:
 ---
 
 Made with ❤️ for Maharashtra Tourism
+=======
+# travel
+travel App (React)
+>>>>>>> 1c1dd0cc636758b77e7c92a74aa0796c440ec133
